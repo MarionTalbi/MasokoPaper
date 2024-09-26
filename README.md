@@ -10,4 +10,6 @@ The recombination maps and the vcf are available on Dryad
   * Determining the Population Recombination Divergence Index (PRDI) for (i) all the genome, (ii) inside and (iii) outside the local PCA outliers, and (iv) inside the significant local PCA outlier
 
 * **Relation with genomic differentiation**
-  * Obtaining [..]
+  * Obtaining PRDI regarding the level of divergence (Fst and delta pi)
+  * Look at the distance in recombination (between vs within ecotype)
+    
