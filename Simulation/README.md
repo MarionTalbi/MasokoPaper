@@ -1,5 +1,5 @@
-#Simulation of genetic data and analyses
+# Simulation of genetic data and analyses
 
-##Msprime simulation
+## Msprime simulation
 
-##Analyses of the simulated genetic data
+## Analyses of the simulated genetic data
