@@ -7,7 +7,7 @@ The recombination maps and the vcf are available on Dryad
 * **Correlation and simulation analyses**
   * Obtaining simulated data
   * Calculating correlation on empirical and simulated data
-  * Determining the Population Recombination Divergence Index (PRDI) for (i) all the genome, (ii) inside and (iii) outside the local PCA outliers, and (iv) inside the significant local PCA outlier
+  * Determining the Population Recombination Divergence Index (PRDI) for all the genome and regarding local PCA outliers.
 
 * **Relation with genomic differentiation**
   * Obtaining PRDI regarding the level of divergence (Fst and delta pi)
